@@ -92,8 +92,11 @@ Optional:
 
 * Copy generated URL from notebook's output
 * Open command-line tool like Terminal app on Mac
-* Configure local Ollama installation to communicate with instance hosted on Colab using the following command: "export Ollama_HOST=<paste_url_here>"
-* Store stable URL for future reference if using a static URL
+* Configure local Ollama installation to communicate with instance hosted on Colab using the following command: 
+```markdown
+export Ollama_HOST=<paste_url_here>
+```
+* Store this export-command for future reference if using a static URL
 
 ### Step 6: Run Ollama
 
