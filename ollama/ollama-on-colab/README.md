@@ -94,7 +94,7 @@ Optional:
 * Open command-line tool like Terminal app on Mac
 * Configure local Ollama installation to communicate with instance hosted on Colab using the following command: 
 ```markdown
-export Ollama_HOST=<paste_url_here>
+export OLLAMA_HOST=<paste_url_here>
 ```
 * Store this export-command for future reference if using a static URL
 
