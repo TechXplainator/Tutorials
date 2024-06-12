@@ -100,8 +100,8 @@ export OLLAMA_HOST=<paste_url_here>
 
 ### Step 6: Run Ollama
 
-* Start by running `Ollama List` and notice that model list is empty
-* Download a model, such as Llama3, using the command `Ollama run llama3`
+* Start by running `ollama List` and notice that model list is empty
+* Download a model, such as Llama3, using the command `ollama run llama3`
 * Interact with Ollama locally and notice fast interaction due to leveraging Google's servers through Colab environment
 
 
