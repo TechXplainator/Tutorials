@@ -56,7 +56,7 @@ For the Yoda-Example:
 ``` markdown
 ollama create yoda-llama -f yoda-modelfile
 ```
-As a result, a new model called `yoda-llama`will be created
+As a result, a new model called `yoda-llama` will be created
 
 ## Changing the Custom Instructions
 If you're not happy with the performance of your custom model, or you want to change it, its 2 easy steps:
