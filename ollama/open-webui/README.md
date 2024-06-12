@@ -30,7 +30,7 @@ To get started, you'll need:
 
 
 ### Step 1: Install Ollama & Download Models
-* Install Ollama (see prior [documentation]((/ollama/install-ollama/README.md)) for details)
+* Install Ollama. See prior [documentation](/ollama/install-ollama/README.md) for details.
 * Proceed to Step 2
 
 ### Step 2: Install Docker

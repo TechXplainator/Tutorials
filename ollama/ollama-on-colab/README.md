@@ -73,9 +73,9 @@ Optional:
 * Add new secret and name it 'NGROK_AUTH_TOKEN'
 * Paste authentication code from Ngrok into value field
 * Enable notebook access
-* Replace '<insert-your-statik-ngrok-domain-here>' in line 12 of last cell with the static domain you copied from Ngrok
+* Replace `<insert-your-statik-ngrok-domain-here>` in line 10 of last cell with the static domain you copied from Ngrok
 
-> If you're NOT using a static Ngrok URL, uncomment line 11 and comment line 12 in the final cell of the notebook!
+> If you're NOT using a static Ngrok URL, uncomment line 9 and comment line 10 in the final cell of the notebook!
 
 
 ### Step 4: Execute Jupyter Notebook

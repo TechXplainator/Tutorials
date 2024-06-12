@@ -28,7 +28,7 @@ Here's what I'll be using:
 	+ [Link](/ollama/install-ollama/README.md) for installation process
 * [**Microsoft Visual Studio Code (VSCode)**](https://code.visualstudio.com/): The editor of choice for this project, but any other editor can be used.
 	+ Free and easy to install.
-* [**An account with Hugging Face**](https://huggingface.co) for downloading quantized models (GGUF file)
+* **An account with [Hugging Face](https://huggingface.co)** for downloading quantized models (GGUF file)
     + Free and easy to sign up
 
 ## What are Quantized Models?

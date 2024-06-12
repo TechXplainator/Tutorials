@@ -1,6 +1,6 @@
 # Get Your Own Local AI Coding Copilot with LLAMA3
 
-In this tutorial I'll show you how to set up your own local LLAMA3 copilot using CodeGPT and Ollama in Visual Studio Code. We'll install and configure the tools together.
+In this tutorial I'll show you how to set up your own local LLAMA3 copilot using CodeGPT and Ollama in Visual Studio Code. 
 
 If you prefer learning through a visual approach or want to gain additional insight into this topic, be sure to check out my YouTube video on this subject!
 
