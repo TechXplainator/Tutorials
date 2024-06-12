@@ -13,7 +13,7 @@ If you prefer learning through a visual approach or want to gain additional insi
 	* [Ollama Models](https://ollama.com/library)
     * [How to install Ollama locally](/ollama/install-ollama/README.md)
 * Open WebUI
-	* [GitHub Page](https://github.com/open-webui/open-webui?tab=readme-ov-file#open-webui-formerly-ollama-webui-)
+	* [GitHub Page](https://github.com/open-webui/open-webui)
 	* [Installation Commands](https://github.com/open-webui/open-webui?tab=readme-ov-file#installation-with-default-configuration)
 * [Docker Website](https://www.docker.com/products/docker-desktop/)
 * Localhost URL for OpenWebUI: [http://localhost:3000](http://localhost:3000)
@@ -24,7 +24,7 @@ To get started, you'll need:
 
 * [**Ollama**](https://ollama.com/): an open-source tool for running large language models locally
 * [**Docker**](https://www.docker.com/products/docker-desktop/): software that enables applications to run within containers
-* [**Open Web UI**](https://github.com/open-webui/open-webui?tab=readme-ov-file#open-webui-formerly-ollama-webui-): a tool making it simpler to interact with LLMs
+* [**Open Web UI**](https://github.com/open-webui/open-webui): a tool making it simpler to interact with LLMs
 
 ## Installation Steps
 

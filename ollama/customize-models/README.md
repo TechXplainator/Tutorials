@@ -13,7 +13,7 @@ If you prefer learning through a visual approach or want to gain additional insi
 	* [Installation Guide](/ollama/install-ollama/README.md)
 	* [Ollama Documentation for Modelfiles](https://github.com/ollama/ollama/blob/main/docs/modelfile.md)
 * Open WebUI
-	* [GitHub Page](https://github.com/open-webui/open-webui?tab=readme-ov-file#open-webui-formerly-ollama-webui-)
+	* [GitHub Page](https://github.com/open-webui/open-webui)
 	* [Installation Guide](/ollama/open-webui/README.md)
 * [Microsoft Visual Studio Code](https://code.visualstudio.com/)	
 

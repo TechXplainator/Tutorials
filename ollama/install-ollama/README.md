@@ -34,7 +34,7 @@ If you prefer learning through a visual approach or want to gain additional insi
 
 4. **Model Customization**: Ollama offers various models for download, including specialized ones for mathematical problem-solving, coding, and unrestricted variants. This flexibility allows you to tailor your AI experience to your specific needs.
 
-## Installing Ollama:
+## Installing Ollama
 
 1. Go to Ollama's official website and select "download" for your specific operating system.
 
@@ -42,7 +42,7 @@ If you prefer learning through a visual approach or want to gain additional insi
 
 ## Running Ollama on MAC
 
-* Ollama operates using a command line setup, which may require some adjustment for those not familiar with it.
+* Ollama operates using a command line setup, which may require some adjustment for those not familiar with it. If you prefer a ChatGPT-like UI (as I do), consider downloading Open WebUI. You'll find an installation guide [here](/ollama/open-webui/README.md).
 * On Macs, the terminal app can be accessed via Spotlight Search:
 	+ Press Command + Spacebar to open Spotlight Search
 	+ Type 'Terminal' into the search bar and hit Enter

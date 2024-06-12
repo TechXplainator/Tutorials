@@ -116,7 +116,7 @@ Optional:
 
 ## Combining with Ollama WebUI
 
-If using Ollama alongside with [Ollama WebUI](https://github.com/open-webui/open-webui?tab=readme-ov-file#open-webui-formerly-ollama-webui-), you'll need to do one additional step:
+If using Ollama alongside with [Ollama WebUI](https://github.com/open-webui/open-webui), you'll need to do one additional step:
 
 Install Open Web UI into a Docker container using the URL provided by N-Grok (stable URL required)
 

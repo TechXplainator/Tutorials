@@ -19,7 +19,7 @@ In this repository, you'll find a collection of tutorials on various topics, fro
 
 Check out my homepage at [techxplainator.com](https://techxplainator.com/) to learn more about my background, interests, and other projects.
 
-## Next steps
+## Tutorials
 
 Start exploring the tutorials in this repository, and don't forget to check out my [YouTube channel](https://www.youtube.com/@TechXplainator) for video versions of these tutorials!
 
@@ -27,4 +27,10 @@ Happy coding!
 
 TechXplainator
 
-###
+### Ollama Tutorials
+* [Installation guide for Ollama](/ollama/install-ollama/README.md)
+* [Open WebUI for Ollama installation guide](/ollama/open-webui/README.md)
+* [Customize models in Ollama](/ollama/customize-models/README.md)
+* [Import quantized models to Ollama](/ollama/import-quantized-models-to-ollama/README.md)
+* [Run ollama models as coding copilots](/ollama/ollama-copilot/README.MD)
+* [Run Ollama on Google Colab](/ollama/ollama-on-colab/README.md)
