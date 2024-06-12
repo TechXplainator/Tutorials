@@ -4,7 +4,7 @@ This tutorial will guide you through setting up Ollama in Google Colab using N-G
 
 If you prefer learning through a visual approach or want to gain additional insight into this topic, be sure to check out my YouTube video on this subject!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+[![ollama-on-colab](/ollama/ollama-on-colab/ollama-colab-thumbnail.png)](!!!!!!!!!!)
 
 ## Quick Links
 
