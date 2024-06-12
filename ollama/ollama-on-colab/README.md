@@ -83,7 +83,7 @@ Optional:
 * Run all cells in the notebook
 * Output should be the following:
 
-```markdown
+```output
 "started tunnel" obj=tunnels name=command_line addr=http://localhost:11434 url=https://example.ngrok-free.app
 ```
 > If you are using a static Ngrok URL, the example URL should correspond to the static Ngrok domain. If not, you will get a randomly generated URL from Ngrok.
