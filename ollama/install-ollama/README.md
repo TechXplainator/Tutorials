@@ -4,7 +4,7 @@ This tutorial will guide you through setting up Ollama locally on your machine.
 
 If you prefer learning through a visual approach or want to gain additional insight into this topic, be sure to check out my YouTube video on this subject!
 
-<iframe width="560" height="315" src="https://youtu.be/76uPAMvsTyM" frameborder="0" allowfullscreen></iframe>
+[![install-ollama-thumbnail](/ollama/install-ollama/install-ollama-thumbnail.png)](https://youtu.be/76uPAMvsTyM)
 
 ## Quick Links
 
