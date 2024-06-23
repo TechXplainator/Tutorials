@@ -34,3 +34,13 @@ TechXplainator
 * [Import quantized models to Ollama](/ollama/import-quantized-models-to-ollama/README.md)
 * [Run ollama models as coding copilots](/ollama/ollama-copilot/README.MD)
 * [Run Ollama on Google Colab](/ollama/ollama-on-colab/README.md)
+
+### Stable Diffusion Tutorials
+* [Install Stable Diffusion Web UI from AUTOMATIC1111 on Mac](/stable-diffusion/install-automatic-1111/README.md)
+* [Stable Diffusion Crash Course for Beginners for AUTOMATIC1111](/stable-diffusion/crash-course-for-beginners/README.md)
+* [Stable Diffusion Models Explained](/stable-diffusion/stable-diffusion-models-explained/README.md)
+* [How to Switch Between Models in Stable Diffusion Web UI (AUTOMATIC1111)](/stable-diffusion/switch-between-models-in-AUTOMATIC1111/)
+* [Write Great Stable Diffusion Prompts](/stable-diffusion/write-better-prompts-for-stable-diffusion/README.md)
+* [Install ComfyUI for Stable Diffusion on Mac](/stable-diffusion/install-comfyui/README.md)
+* [Best SDXL Models with Model Comparison](/stable-diffusion/best-sdxl-models/README.md)
+* [Best ways of running Stable Diffusion on Mac](/stable-diffusion/best-ways-of-running-sdxl-on-mac/README.md)

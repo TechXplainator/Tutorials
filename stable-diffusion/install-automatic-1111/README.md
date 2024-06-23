@@ -1,5 +1,7 @@
 # Install and Run Stable Diffusion Web UI from AUTOMATIC1111
 
+In this tutorial, I'll guide you on how to install AUTOMATIC's Stable Diffusion Web UI on a Mac.
+
 If you prefer learning through a visual approach or want to gain additional insight into this topic, be sure to check out my YouTube video on this subject!
 
 [![install stable diffuion](/stable-diffusion/install-automatic-1111/images/install-stable-diffusion-thumbnail.png)](https://youtu.be/mbhipHCuOEw)
