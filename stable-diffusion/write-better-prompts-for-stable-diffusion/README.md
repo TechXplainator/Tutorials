@@ -5,7 +5,7 @@ Creating a good prompt is important. In fact, there are numerous websites where 
 
 This tutorial will guide you through writing better prompts for Stable Diffusion.
 
-If you prefer learning through a visual approach or want to gain additional insight into this topic, be sure to check out my YouTube video on this subject!
+If you prefer learning through a visual approach or want to gain additional insight into this topic, be sure to check out my YouTube videos on this subject!
 
 | Part 1                     | Part 2                |
 |--------------------------- |-----------------------|

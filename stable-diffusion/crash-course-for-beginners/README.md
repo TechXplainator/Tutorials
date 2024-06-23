@@ -105,8 +105,6 @@ The quality of generated images depends on the sampling method chosen. For examp
 
 > As a beginner, stick to the range of 3-7 for the CFG scale and experiment with different scales to find what works best for you.
 
-Here's your requested tutorial in Markdown format:
-
 ### Understanding Image Size and Dimensions
 
 * **Image Width**: The width of the image, measured in pixels.
@@ -209,8 +207,6 @@ In machine learning, a seed is a numerical value that guides how random a comput
 
 * The Open Folder button opens the folder where your autosaved images are stored (if enabled).
 * On a Mac, this will open Finder to the corresponding folder.
-
-Here's your requested tutorial in Markdown format:
 
 ### Generate Forever, Interrupt, and Skip Options
 

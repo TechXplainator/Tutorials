@@ -6,10 +6,6 @@ If you prefer learning through a visual approach or want to gain additional insi
 
 [![install stable diffuion](/stable-diffusion/switch-between-models-in-AUTOMATIC1111/images/sd-switch-models-thumbnail.png)](https://youtu.be/pvl-MfCpu6U)
 
-## Quick Links
-* Stable Diffusion WebUI from AUTOMATIC1111:
-    * [Installation Guide](/stable-diffusion/switch-between-models-in-AUTOMATIC1111/)
-
 
 ## Switch Between Models in Stable Diffusion
 
