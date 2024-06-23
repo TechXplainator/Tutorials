@@ -4,7 +4,7 @@ In this tutorial, I'll guide you on how to install AUTOMATIC's Stable Diffusion 
 
 If you prefer learning through a visual approach or want to gain additional insight into this topic, be sure to check out my YouTube video on this subject!
 
-[![install stable diffuion](/stable-diffusion/install-automatic-1111/images/install-stable-diffusion-thumbnail.png)](https://youtu.be/mbhipHCuOEw)
+[![install stable diffuion](/stable-diffusion/install-automatic-1111/images/install-sd-automatic-thumbnail.png)](https://youtu.be/mbhipHCuOEw)
 
 
 ## Table of Contents
@@ -36,6 +36,12 @@ To install [Homebrew](https://brew.sh/index) on a Mac, you can follow these step
 5. Once the installation is complete, you should see a message indicating that Homebrew has been successfully installed. 
 
 6. After installing Homebrew on your Mac, you need to adjust your PATH environment variable to ensure that Homebrew commands are recognized and accessible from any directory in the Terminal. You must do that by copy-and-pasting the command that you are given in your prompt, and hit ENTER: ![homebrew-path](/stable-diffusion/install-automatic-1111/images/homebrew-adjust-path.png)
+
+The command you see in the terminal is customized to your user profile. In case you missed the customized command in the Terminal, you can use the following command and replace `YOUR USER NAME` with your Mac's user name:
+
+```markdown
+echo 'eval $(/opt/homebrew/bin/brew shellenv)' >> /Users/"YOUR USER NAME"/.zprofile eval $(/opt/homebrew/bin/brew shellenv)
+```
 
 [Back to top &#8593;](#table-of-contents)
 

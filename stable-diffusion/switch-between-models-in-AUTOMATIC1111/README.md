@@ -4,7 +4,7 @@ Discover the freedom of selecting and switching between AI models in Stable Diff
 
 If you prefer learning through a visual approach or want to gain additional insight into this topic, be sure to check out my YouTube video on this subject!
 
-[![install stable diffuion](/stable-diffusion/switch-between-models-in-AUTOMATIC1111/images/sd-switch-models.png)](https://youtu.be/pvl-MfCpu6U)
+[![install stable diffuion](/stable-diffusion/switch-between-models-in-AUTOMATIC1111/images/sd-switch-models-thumbnail.png)](https://youtu.be/pvl-MfCpu6U)
 
 ## Quick Links
 * Stable Diffusion WebUI from AUTOMATIC1111:

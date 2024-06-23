@@ -9,7 +9,7 @@ If you prefer learning through a visual approach or want to gain additional insi
 
 | Part 1                     | Part 2                |
 |--------------------------- |-----------------------|
-|[![Write Better SD Prompts - Part 1](/stable-diffusion/write-better-prompts-for-stable-diffusion/images/sd-write-better-prompts-01.png)](https://youtu.be/uc0nL2DADGI)| [![Write Better SD Prompts - Part 1](/stable-diffusion/write-better-prompts-for-stable-diffusion/images/sd-write-better-prompts-02.png)](https://youtu.be/PHbTJTt1C7g)|
+|[![Write Better SD Prompts - Part 1](/stable-diffusion/write-better-prompts-for-stable-diffusion/images/sd-better-prompts-01-thumbnail.png)](https://youtu.be/uc0nL2DADGI)| [![Write Better SD Prompts - Part 1](/stable-diffusion/write-better-prompts-for-stable-diffusion/images/sd-better-prompts-02-thumbnail.png)](https://youtu.be/PHbTJTt1C7g)|
 
 
 ## 1. The Anatomy of a Prompt

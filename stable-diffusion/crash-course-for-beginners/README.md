@@ -1,10 +1,10 @@
 # A Beginner's Guide to Stable Diffusion (AUTOMATIC1111)
 
-Unlock the basics of Stable Diffusion using AUTOMATIC1111 in this tutorial! Discover how to operate Stable Diffusion, create your initial image, and gain a solid understanding of fundamental settings such as sampling, CFG scale, image size, batch count/size, seed, and output handling. 
+Discover how to operate Stable Diffusion, create your initial image, and gain a solid understanding of fundamental settings such as sampling, CFG scale, image size, batch count/size, seed, and output handling. 
 
 If you prefer learning through a visual approach or want to gain additional insight into this topic, be sure to check out my YouTube video on this subject!
 
-[![install stable diffuion](/stable-diffusion/switch-between-models-in-AUTOMATIC1111/images/sd-switch-models.png)](https://youtu.be/DOBWrM1qx34)
+[![SD crash course](/stable-diffusion/crash-course-for-beginners/images/sd-crash-course-thumbnail.png)](https://youtu.be/DOBWrM1qx34)
 
 ## Table Of Contents
  * [Create your first image](#create-your-first-image)

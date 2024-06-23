@@ -6,7 +6,7 @@ But what does choosing a model entail? What are the different model versions, an
 
 If you prefer learning through a visual approach or want to gain additional insight into this topic, be sure to check out my YouTube video on this subject!
 
-[![install stable diffuion](/stable-diffusion/stable-diffusion-models-explained/images/sd-model-guide.png)](https://youtu.be/U4JOCKlCPyg)
+[![install stable diffuion](/stable-diffusion/stable-diffusion-models-explained/images/sd-models-explained-thumbnail.png)](https://youtu.be/U4JOCKlCPyg)
 
 
 When picking a model, consider factors like version, size, style, and any additional installation steps.

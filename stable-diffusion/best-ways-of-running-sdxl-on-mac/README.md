@@ -4,7 +4,7 @@ Stable Diffusion (SD) has become a popular tool for AI-generated art. As an open
 
 If you prefer learning through a visual approach or want to gain additional insight into this topic, be sure to check out my YouTube video on this subject!
 
-[![best ways of running SDXL on Mac](/stable-diffusion/best-ways-of-running-sdxl-on-mac/images/running-sdxl-on-mac.png)](https://youtu.be/TRf4Pa4IfJ0)
+[![best ways of running SDXL on Mac](/stable-diffusion/best-ways-of-running-sdxl-on-mac/images/running-sdxl-mac-thumbnail.png)](https://youtu.be/TRf4Pa4IfJ0)
 
 
 ## Options

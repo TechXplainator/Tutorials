@@ -4,7 +4,7 @@ With thousands of Stable Diffusion models out there its hard to decide which one
 
 If you prefer learning through a visual approach or want to gain additional insight into this topic, be sure to check out my YouTube video on this subject!
 
-[![best SDXL models](/stable-diffusion/best-sdxl-models/images/best-sdxl-models.png)](https://youtu.be/ICcBqUQlaBY)
+[![best SDXL models](/stable-diffusion/best-sdxl-models/images/best-sdxl-models-thumbnail.png)](https://youtu.be/ICcBqUQlaBY)
 
 ## Top 5 SDXL Models
 
