@@ -2,9 +2,9 @@
 
 This tutorial will guide you through setting up Ollama in Google Colab using Ngrok. 
 
-<!-- If you prefer learning through a visual approach or want to gain additional insight into this topic, be sure to check out my YouTube video on this subject!
+If you prefer learning through a visual approach or want to gain additional insight into this topic, be sure to check out my YouTube video on this subject!
 
-[![ollama-on-colab](/ollama/ollama-on-colab/ollama-colab-thumbnail.png)](!!!!!!!!!!) -->
+[![ollama-on-colab](/ollama/ollama-on-colab/ollama-colab-thumbnail.png)](https://youtu.be/9sPKTNGaPf8)
 
 ## Quick Links
 
