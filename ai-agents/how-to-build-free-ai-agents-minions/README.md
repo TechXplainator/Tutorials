@@ -12,10 +12,10 @@ If you prefer learning through a visual approach or want to gain additional insi
 
 ## Quick Links
 
-* [Jupyter Notebook: Minions for world domination](/ai-agents/how-to-build-free-ai-agents-minions/world_domination.ipynb)
+* Jupyter Notebooks
+    * [Minions for world domination](/ai-agents/how-to-build-free-ai-agents-minions/world_domination.ipynb)
 * Ngrok
 	* [Ngrok website](https://ngrok.com/)
-	* [Getting free static domains in Ngrok](https://ngrok.com/blog-post/free-static-domains-ngrok-users)
 * Ollama
 	* [Ollama website](https://ollama.com/)
 	* [How to install Ollama locally](/ollama/install-ollama/README.md)
@@ -32,7 +32,7 @@ Here's what I'll be using:
 
 * [Ollama](https://ollama.com/): framework for running large language models locally
 	+ Open-source and easy to set up
-	+ [Link]((/ollama/install-ollama/README.md)) for installation process
+	+ [Link](/ollama/install-ollama/README.md) for installation process
 * [Google Colab](https://colab.research.google.com/): cloud-based platform for Python code 
 	+ Free account required, assuming you already have one
 * [Ngrok](https://ngrok.com/): gives local web applications a public URL
@@ -42,7 +42,7 @@ Here's what I'll be using:
 ## Setup Steps
 
 1. [Expose local Ollama to public URL provided by Ngrok](#step-1---expose-local-ollama-to-public-url-provided-by-ngrok)
-2. [Open a pre-prepared Jupyter Notebook on Colab, logged in with Google account.](#step-2-open-prepared-jupyter-notebook)
+2. [Open and run a pre-prepared Jupyter Notebook on Colab, logged in with Google account.](#step-2-open-and-run-a-prepared-jupyter-notebook)
 3. [Execute the code in Jupyter Notebook](#step-3-execute-jupyter-notebook)
 
 
