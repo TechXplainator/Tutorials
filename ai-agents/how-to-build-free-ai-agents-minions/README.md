@@ -1,4 +1,4 @@
-# How to Build Free AI Agents - Minions for World Dominiation
+# How to Build Free AI Agents - Minions for World Domination
 
 In this tutorial, we're going to build AI agents on Google Colab with the help of LLaMA3 powered by Ollama and CrewAI. 
 

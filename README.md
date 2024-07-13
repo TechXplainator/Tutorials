@@ -37,7 +37,7 @@ TechXplainator
 
 ### AI Agents Tutorials
 
-* [How to Build Free AI Agents - Minions for World Dominiation](/ai-agents/how-to-build-free-ai-agents-minions/README.md)
+* [How to Build Free AI Agents - Minions for World Domination](/ai-agents/how-to-build-free-ai-agents-minions/README.md)
 
 ### Stable Diffusion Tutorials
 * [Install Stable Diffusion Web UI from AUTOMATIC1111 on Mac](/stable-diffusion/install-automatic-1111/README.md)
