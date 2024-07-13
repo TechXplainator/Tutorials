@@ -1,6 +1,6 @@
-# Creating AI Agents with Ollama
+# How to Build Free AI Agents - Minions for World Dominiation
 
-In this tutorial, we're going to build AI agents on Google Colab with the help of LLaMA3 powered by Ollama. 
+In this tutorial, we're going to build AI agents on Google Colab with the help of LLaMA3 powered by Ollama and CrewAI. 
 
 With these powerful tools, you can automate tasks that would normally take hours or days, such as preparing for meetings, generating customized trip plans, or writing blogs and social media posts. 
 
@@ -8,11 +8,11 @@ The good news is that this process is entirely free!
 
 If you prefer learning through a visual approach or want to gain additional insight into this topic, be sure to check out my YouTube video on this subject!
 
-[![install-ollama-thumbnail](/ollama/install-ollama/install-ollama-thumbnail.png)](https://youtu.be/76uPAMvsTyM)
+[![install-ollama-thumbnail](/ai-agents/how-to-build-free-ai-agents-minions/ollama-agents-minions-thumbnail.png)](https://youtu.be/YA5hT4iFUIk)
 
 ## Quick Links
 
-* [Jupyter Notebook](/ollama/ollama-agents/world_domination.ipynb)
+* [Jupyter Notebook: Minions for world domination](/ai-agents/how-to-build-free-ai-agents-minions/world_domination.ipynb)
 * Ngrok
 	* [Ngrok website](https://ngrok.com/)
 	* [Getting free static domains in Ngrok](https://ngrok.com/blog-post/free-static-domains-ngrok-users)
@@ -22,6 +22,9 @@ If you prefer learning through a visual approach or want to gain additional insi
     * [How to run Ollama on Google Colab](/ollama/ollama-on-colab/README.md)
 * Google Colab
 	* [Google Colab website](https://colab.research.google.com/)
+* CrewAI
+    * [Website](https://www.crewai.com/)    
+    * [Documentation](https://docs.crewai.com/)
 
 ## Setup
 
@@ -30,9 +33,8 @@ Here's what I'll be using:
 * [Ollama](https://ollama.com/): framework for running large language models locally
 	+ Open-source and easy to set up
 	+ [Link]((/ollama/install-ollama/README.md)) for installation process
-* [Google Colab](https://colab.research.google.com/): cloud-based platform for Python code and Jupyter notebooks
-	+ Free account required, assumes you already have one
-	+ Consider upgrading to [Colab Pro](https://colab.research.google.com/signup/pricing) for faster LLMs
+* [Google Colab](https://colab.research.google.com/): cloud-based platform for Python code 
+	+ Free account required, assuming you already have one
 * [Ngrok](https://ngrok.com/): gives local web applications a public URL
 	+ Sign up for free account in description
 
@@ -46,7 +48,7 @@ Here's what I'll be using:
 
 ### Step 1 - Expose local Ollama to public URL provided by Ngrok
 
-When it comes to exposing Llama3 to Google Colab with Ngrok, you have two viable options. One approach is to install Ngrok on your machine and map your URL - a very straightforward process! Alternatively, you can run Llama3 directly on Colab using a Ngrok URL, without any installation to your local machine.
+When it comes to exposing Llama3 to Google Colab with Ngrok, you have two viable options. One approach is to install Ngrok on your machine and map your URL - a very straightforward process! Alternatively, you can run Llama3 on Colab using a Ngrok URL, without any installation of Ngrok to your local machine. You would choose the second option if (like me) you don't have enough GPU to run LLMs locally on your machine.
 
 #### Option 1 - Install Ngrok and Expose your local URL
 
@@ -57,12 +59,12 @@ On your local machine:
 
 #### Option 2 - Run llama3 on Google Colab using Ngrok
 
-I created a comprehensive tutorial that utilizes a static URL from Ngrok, allowing me to reuse it multiple times. You can find the tutorial here: [Running Ollama on Google Colab](/ollama/ollama-on-colab/README.md).
+I created a comprehensive tutorial that utilizes a static URL from Ngrok, allowing you to reuse it multiple times. You can find the tutorial here: [Running Ollama on Google Colab](/ollama/ollama-on-colab/README.md).
 
 
-### Step 2: Open Prepared Jupyter Notebook
+### Step 2: Open and run a prepared Jupyter Notebook
 
-* Open this [Jupyter notebook]() in Google Colab
+* Open this [Jupyter notebook](/ai-agents/how-to-build-free-ai-agents-minions/world_domination.ipynb) in Google Colab
 * Ensure logged in with Google account first
 * Navigate to "Secrets" section within Colab
 * Add new secret and name it `OLLAMA_BASE_URL`. Now add the Ngrok URL from [step 1](#step-1---expose-local-ollama-to-public-url-provided-by-ngrok) as a value. 

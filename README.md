@@ -34,7 +34,10 @@ TechXplainator
 * [Import quantized models to Ollama](/ollama/import-quantized-models-to-ollama/README.md)
 * [Run ollama models as coding copilots](/ollama/ollama-copilot/README.MD)
 * [Run Ollama on Google Colab](/ollama/ollama-on-colab/README.md)
-* [Build AI agents with Ollama](/ollama/ollama-agents/README.md)
+
+### AI Agents Tutorials
+
+* [How to Build Free AI Agents - Minions for World Dominiation](/ai-agents/how-to-build-free-ai-agents-minions/README.md)
 
 ### Stable Diffusion Tutorials
 * [Install Stable Diffusion Web UI from AUTOMATIC1111 on Mac](/stable-diffusion/install-automatic-1111/README.md)
