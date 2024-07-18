@@ -34,6 +34,7 @@ TechXplainator
 * [Import quantized models to Ollama](/ollama/import-quantized-models-to-ollama/README.md)
 * [Run ollama models as coding copilots](/ollama/ollama-copilot/README.MD)
 * [Run Ollama on Google Colab](/ollama/ollama-on-colab/README.md)
+* [Access Open WebUI from Your Phone or Anywhere](/ollama/access-ollama-and-open-webui-remotely/README.md)
 
 ### AI Agents Tutorials
 
