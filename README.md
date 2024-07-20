@@ -40,7 +40,7 @@ TechXplainator
 
 * [How to Build Free AI Agents - Minions for World Domination](/ai-agents/how-to-build-free-ai-agents-minions/README.md)
 
-### Llavafile Tutorials
+### Llamafile Tutorials
 
 * [How to get started with Llamafile](/llamafile/getting-started-with-llamafile/README.md)
 
