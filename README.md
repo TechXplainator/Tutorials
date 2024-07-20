@@ -40,6 +40,10 @@ TechXplainator
 
 * [How to Build Free AI Agents - Minions for World Domination](/ai-agents/how-to-build-free-ai-agents-minions/README.md)
 
+### Llavafile Tutorials
+
+* [How to get started with Llamafile](/llamafile/getting-started-with-llamafile/README.md)
+
 ### Stable Diffusion Tutorials
 * [Install Stable Diffusion Web UI from AUTOMATIC1111 on Mac](/stable-diffusion/install-automatic-1111/README.md)
 * [Stable Diffusion Crash Course for Beginners for AUTOMATIC1111](/stable-diffusion/crash-course-for-beginners/README.md)
